@@ -127,10 +127,5 @@ The menu bar includes:
 - **`clear_inputs`**: Resets the input fields and the button to its default state.
 - **`show_help`**: Displays a help message explaining how to use the application.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to update the repository link or any other details specific to your project!
