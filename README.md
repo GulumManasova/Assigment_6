@@ -1,7 +1,11 @@
 Input/Output
 <img width="676" alt="Image" src="https://github.com/user-attachments/assets/646d1efa-6609-4cd3-bbcf-e5a44bc1489f" />
 
-<img width="582" alt="Image" src="https://github.com/user-attachments/assets/bddb57bc-76da-4a49-8bc6-2129b7a4a0f7" />
+<img width="604" alt="Image" src="https://github.com/user-attachments/assets/4fdeb8cd-7b4b-4944-8f2a-a4b79248c4f3" />
+
+<img width="604" alt="Image" src="https://github.com/user-attachments/assets/ab88236c-9497-4303-9dbd-3007201fe884" />
+
+<img width="604" alt="Image" src="https://github.com/user-attachments/assets/8edb7d00-d575-4bba-b185-cfb7311a0b0e" />
 
 
 
